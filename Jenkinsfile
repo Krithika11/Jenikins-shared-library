@@ -4,5 +4,5 @@
      echo 'Hello world'
      sayHello 'Kritu'
      // buildPlugin ()   // to use library with default values
-     buildPlugin name: 'git'  // uncomment this to use the git step from shared library
+     buildPlugin name: 'kubernetes'  // uncomment this to use the git step from shared library
  }
